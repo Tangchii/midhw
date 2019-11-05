@@ -1,0 +1,201 @@
+html {
+    background-color: #ffffff;
+    box-sizing: border-box;
+  }
+body {
+    max-width: 1260px;
+    background: #ffe59d;
+    margin-top: 55px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 24px;
+} 
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 1260px;
+    position: fixed;
+    top: 0;
+    background: #ffe59d;
+    
+}
+input{
+    width: 150px;
+    text-align: center;
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+    border-radius: 8px;
+}
+.submitbox{
+    margin-left: 0px;
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+    border-radius: 8px;
+}
+.submitbox2{
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 20px;
+}
+.leftbox{
+    
+}
+.tabin{
+    background-color: #fff7d4;
+    width: 800px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.main-header{
+    margin-bottom: 10px;
+}
+.art{
+    margin:  auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1160px;
+    margin-top: 40px;
+    padding: 0px;
+    border-radius: 8px;
+}
+.info{
+    
+    width: 280px;
+    height: 390px;
+    background-color: #fff7d4;
+    border-radius: 8px;
+    
+}
+
+footer{
+    width: 1260px;
+    background: #bbad87;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    position: fixed;
+    bottom: 0px;
+
+}
+
+.shopee{
+display: flex;
+align-items: center;
+margin-right: 100px;
+}
+
+#shoppingcart{
+    margin-right: 20px;
+
+}
+#main-pic{
+    max-width: 1260px;
+    padding-top: 100px; 
+}
+
+.mb{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    border: #944518;
+}
+
+/***********下方區塊**********/
+.menu-box{
+    padding-top: 25px;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+/***********旁邊選單**********/
+aside{
+    width: 240px;
+    height: 160px;
+    background: #fff7d4;
+    margin: 0 60px;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+
+.aside-text{
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+    padding-left: 15px;
+}
+
+hr{
+    background-color: #cf9675; 
+    width: 125px;
+    height: 2px;
+    margin-left: 0px;
+    border:0;
+    border-radius: 2px;
+}
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+li{list-style:none}
+
+/***********圖**********/
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -10px;
+
+}
+.col{
+    padding: 0px -10px;
+}    
+.col-xs-3{
+    width: 25%;
+    margin-bottom: 30px;
+}
+.col-xs-1{width: 8.332%;}
+.col-xs-2{width: 16.662%;}
+.col-xs-4{width: 33.332%;}
+.col-xs-5{width: 41.662%;}
+.col-xs-6{width: 50%;}
+.col-xs-7{width: 58.331%;}
+.col-xs-8{width: 66.662%;}
+.col-xs-9{width: 75%;}
+.col-xs-10{width: 83.332%;}
+.col-xs-11{width: 91.662%;}
+
+.imgg {
+    height: 170px;
+    border-radius: 8px;
+}
+
+.footer-text{
+    scroll-padding: 5px 0px;
+    text-align: center;
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+}
+#address{
+    font-size: 18px;
+
+}
+
+tr {
+    text-align: center;
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+}
+p {
+    text-align: center;
+    font-family: "華康中圓體";
+    color: #944518;
+    font-size: 24px;
+}
