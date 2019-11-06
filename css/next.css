@@ -25,20 +25,20 @@ header{
 input{
     width: 150px;
     text-align: center;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
     border-radius: 8px;
 }
 .submitbox{
     margin-left: 0px;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
     border-radius: 8px;
 }
 .submitbox2{
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 20px;
 }
@@ -127,7 +127,7 @@ aside{
 }
 
 .aside-text{
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
     padding-left: 15px;
@@ -179,7 +179,7 @@ li{list-style:none}
 .footer-text{
     scroll-padding: 5px 0px;
     text-align: center;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
 }
@@ -190,17 +190,14 @@ li{list-style:none}
 
 tr {
     text-align: center;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
 }
 p {
     text-align: center;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
 }
 
-
-body{font-family: "cwTeXKai’, serif";
-}
