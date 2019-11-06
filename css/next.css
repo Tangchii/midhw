@@ -1,3 +1,4 @@
+@import  url（https://fonts.googleapis.com/earlyaccess/cwtexkai.css）;
 html {
     background-color: #ffffff;
     box-sizing: border-box;
@@ -200,6 +201,6 @@ p {
     font-size: 24px;
 }
 
-@import  網址（https://fonts.googleapis.com/earlyaccess/cwtexkai.css）;
-html{font-family: "cwTeXKai’, serif";
+
+body{font-family: "cwTeXKai’, serif";
 }
