@@ -1,4 +1,4 @@
-@import  url（https://fonts.googleapis.com/earlyaccess/cwtexkai.css）;
+
 html {
     background-color: #ffffff;
     box-sizing: border-box;
@@ -84,7 +84,7 @@ aside{
 }
 
 .aside-text{
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
     padding-left: 15px;
@@ -136,12 +136,12 @@ li{list-style:none}
 .footer-text{
     scroll-padding: 5px 0px;
     text-align: center;
-    font-family: "華康中圓體";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
     font-size: 24px;
 }
 #address{
     font-size: 18px;
-    font-family: "cwTeXKai’, serif";
+    font-family: Microsoft JhengHei, sans-serif;
     color: #944518;
 }
