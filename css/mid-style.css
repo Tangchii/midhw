@@ -1,3 +1,4 @@
+@import  網址（https://fonts.googleapis.com/earlyaccess/cwtexkai.css）;
 html {
     background-color: #ffffff;
     box-sizing: border-box;
@@ -141,9 +142,6 @@ li{list-style:none}
 }
 #address{
     font-size: 18px;
-    font-family: "華康中圓體";
+    font-family: "cwTeXKai’, serif";
     color: #944518;
-}
-@import  網址（https://fonts.googleapis.com/earlyaccess/cwtexkai.css）;
-html{font-family: "cwTeXKai’, serif";
 }
